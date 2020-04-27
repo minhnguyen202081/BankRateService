@@ -1,0 +1,12 @@
+CIC_GetData/App.config
+.vs/
+packages
+CIC_GetData/bin/
+Deployment/
+InsRate/bin
+InsRate/App.config
+DataAccessLayer/bin/
+InsRate/obj/
+CIC_GetData/obj/
+DatabaseComponent/debug/
+DatabaseComponent/obj/

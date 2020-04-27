@@ -1,0 +1,85 @@
+c:\documents and settings\nguyen.hoang-trung\my documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\nguyen.hoang-trung\my documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\DataAccessLayer.dll
+c:\documents and settings\nguyen.hoang-trung\my documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\DataAccessLayer.pdb
+c:\documents and settings\nguyen.hoang-trung\my documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\DataAccessLayer.dll
+c:\documents and settings\nguyen.hoang-trung\my documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\DataAccessLayer.pdb
+C:\Documents and Settings\nguyen.hoang-trung\My Documents\Visual Studio 2010\Projects\ClassLibrary1\Deployment\DataAccessLayer.dll
+C:\Documents and Settings\nguyen.hoang-trung\My Documents\Visual Studio 2010\Projects\ClassLibrary1\Deployment\DataAccessLayer.pdb
+C:\Documents and Settings\nguyen.hoang-trung\My Documents\Visual Studio 2010\Projects\ClassLibrary1\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nguyen.hoang-trung\My Documents\Visual Studio 2010\Projects\ClassLibrary1\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Documents and Settings\nguyen.hoang-trung\My Documents\Visual Studio 2010\Projects\ClassLibrary1\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Examiner Tool\LMSLOS\ClassLibrary1\Deployment\DataAccessLayer.dll
+D:\Examiner Tool\LMSLOS\ClassLibrary1\Deployment\DataAccessLayer.pdb
+D:\Examiner Tool\LMSLOS\ClassLibrary1\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Examiner Tool\LMSLOS\ClassLibrary1\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Examiner Tool\LMSLOS\ClassLibrary1\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Examiner Tool\LMSLOS_List\ClassLibrary1\Deployment\DataAccessLayer.dll
+D:\Examiner Tool\LMSLOS_List\ClassLibrary1\Deployment\DataAccessLayer.pdb
+D:\Examiner Tool\LMSLOS_List\ClassLibrary1\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Examiner Tool\LMSLOS_List\ClassLibrary1\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Examiner Tool\LMSLOS_List\ClassLibrary1\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Examiner Tool\CU Task\ClassLibrary1\Deployment\DataAccessLayer.dll
+D:\Examiner Tool\CU Task\ClassLibrary1\Deployment\DataAccessLayer.pdb
+D:\Examiner Tool\CU Task\ClassLibrary1\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Examiner Tool\CU Task\ClassLibrary1\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Examiner Tool\CU Task\ClassLibrary1\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Working\Task\120530 - code auto script\CU Task\ClassLibrary1\Deployment\DataAccessLayer.dll
+D:\Working\Task\120530 - code auto script\CU Task\ClassLibrary1\Deployment\DataAccessLayer.pdb
+D:\Working\Task\120530 - code auto script\CU Task\ClassLibrary1\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\Task\120530 - code auto script\CU Task\ClassLibrary1\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Working\Task\120530 - code auto script\CU Task\ClassLibrary1\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Working\Task\120530 - code auto script\GenerateReports\Deployment\DataAccessLayer.dll
+D:\Working\Task\120530 - code auto script\GenerateReports\Deployment\DataAccessLayer.pdb
+D:\Working\Task\120530 - code auto script\GenerateReports\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\Task\120530 - code auto script\GenerateReports\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Working\Task\120530 - code auto script\GenerateReports\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Coding\Mrs Hanh\GenerateReports\Deployment\DataAccessLayer.dll
+D:\Coding\Mrs Hanh\GenerateReports\Deployment\DataAccessLayer.pdb
+D:\Coding\Mrs Hanh\GenerateReports\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Coding\Mrs Hanh\GenerateReports\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Coding\Mrs Hanh\GenerateReports\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\nguyen.thien-minh\Downloads\GenerateReports\GenerateReports\Deployment\DataAccessLayer.dll
+C:\Users\nguyen.thien-minh\Downloads\GenerateReports\GenerateReports\Deployment\DataAccessLayer.pdb
+C:\Users\nguyen.thien-minh\Downloads\GenerateReports\GenerateReports\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nguyen.thien-minh\Downloads\GenerateReports\GenerateReports\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\nguyen.thien-minh\Downloads\GenerateReports\GenerateReports\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\nguyen.thien-minh\Downloads\GenerateReports\K4011\Deployment\DataAccessLayer.dll
+C:\Users\nguyen.thien-minh\Downloads\GenerateReports\K4011\Deployment\DataAccessLayer.pdb
+C:\Users\nguyen.thien-minh\Downloads\GenerateReports\K4011\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nguyen.thien-minh\Downloads\GenerateReports\K4011\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\nguyen.thien-minh\Downloads\GenerateReports\K4011\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\nguyen.thien-minh\Downloads\GenerateReports\K31X1\Deployment\DataAccessLayer.dll
+C:\Users\nguyen.thien-minh\Downloads\GenerateReports\K31X1\Deployment\DataAccessLayer.pdb
+C:\Users\nguyen.thien-minh\Downloads\GenerateReports\K31X1\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nguyen.thien-minh\Downloads\GenerateReports\K31X1\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\nguyen.thien-minh\Downloads\GenerateReports\K31X1\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\nguyen.thien-minh\Downloads\BO Tool\BO Tool\Deployment\DataAccessLayer.dll
+C:\Users\nguyen.thien-minh\Downloads\BO Tool\BO Tool\Deployment\DataAccessLayer.pdb
+C:\Users\nguyen.thien-minh\Downloads\BO Tool\BO Tool\Website\ABC\DataAccessLayer.dll
+C:\Users\nguyen.thien-minh\Downloads\BO Tool\BO Tool\Website\ABC\DataAccessLayer.pdb
+C:\Users\nguyen.thien-minh\Downloads\BO Tool\BO Tool\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nguyen.thien-minh\Downloads\BO Tool\BO Tool\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\nguyen.thien-minh\Downloads\BO Tool\BO Tool\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\nguyen.thien-minh\Downloads\BO Tool\BO Tool\DataAccessLayer\obj\Debug\DataAccessLayer.Properties.Resources.resources
+C:\Users\nguyen.thien-minh\Downloads\BO Tool\BO Tool\DataAccessLayer\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\nguyen.thien-minh\Downloads\BO Tool\BO Tool\DataAccessLayer\obj\Debug\GenerateResource.write.1.tlog
+D:\MinhNT\Project\RepApp\BO Tool\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\MinhNT\Project\RepApp\BO Tool\DataAccessLayer\obj\Debug\DataAccessLayer.Properties.Resources.resources
+D:\MinhNT\Project\RepApp\BO Tool\DataAccessLayer\obj\Debug\GenerateResource.read.1.tlog
+D:\MinhNT\Project\RepApp\BO Tool\DataAccessLayer\obj\Debug\GenerateResource.write.1.tlog
+D:\MinhNT\Project\RepApp\BO Tool\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\MinhNT\Project\RepApp\BO Tool\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\MinhNT\Project\RepApp\BO Tool\Website\ABC\DataAccessLayer.dll
+D:\MinhNT\Project\RepApp\BO Tool\Website\ABC\DataAccessLayer.pdb
+C:\Users\nguyen.thien-minh\Documents\Visual Studio 2010\Projects\ConsoleApplication1\Website\ABC\DataAccessLayer.dll
+C:\Users\nguyen.thien-minh\Documents\Visual Studio 2010\Projects\ConsoleApplication1\Website\ABC\DataAccessLayer.pdb
+C:\Users\nguyen.thien-minh\Documents\Visual Studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\DataAccessLayer.dll
+C:\Users\nguyen.thien-minh\Documents\Visual Studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\DataAccessLayer.pdb
+C:\Users\nguyen.thien-minh\Documents\Visual Studio 2010\Projects\ConsoleApplication1\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nguyen.thien-minh\Documents\Visual Studio 2010\Projects\ConsoleApplication1\DataAccessLayer\obj\Debug\DataAccessLayer.Properties.Resources.resources
+C:\Users\nguyen.thien-minh\Documents\Visual Studio 2010\Projects\ConsoleApplication1\DataAccessLayer\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\nguyen.thien-minh\Documents\Visual Studio 2010\Projects\ConsoleApplication1\DataAccessLayer\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\nguyen.thien-minh\Documents\Visual Studio 2010\Projects\ConsoleApplication1\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\nguyen.thien-minh\Documents\Visual Studio 2010\Projects\ConsoleApplication1\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\nguyen.thien-minh\Documents\Visual Studio 2010\Projects\ConsoleApplication1\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\nguyen.thien-minh\Documents\Visual Studio 2010\Projects\ConsoleApplication1\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
